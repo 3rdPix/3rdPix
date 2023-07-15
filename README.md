@@ -16,4 +16,4 @@ I'm an undergraduate on the road to be a software engineer. Working on many proj
 * 💬 I create youtube videos of games and livestream my programming sessions (not all of them)
 * ⚡ I completed the quest for [Dolmanax <img align=down width=22 heigth=22 src='https://static.ankama.com/dofus/www/game/items/200/23018.png'>](https://www.dofuspourlesnoobs.com/calendrier-de-lalmanax.html)
 ### NOT fun facts
-* I prefer light mode.
+* 💡 I prefer light mode.
