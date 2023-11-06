@@ -1,19 +1,19 @@
-\ (●'◡'●) / <br>
-I'm an undergraduate on the road to be a software engineer. Working on many projects while going at high speeds to the limits of knowledge.
-* 🔋 Currently my main focus is to finish games that I thought about when younger
-* 🌱 I'm learning all the details and extensions of the Qt6 framework, as well as backend development in Node JS. Closed to no form of new ideas or knowledge ╰(*°▽°*)╯ 
-* 👯 **Always open** to help, learn, and work on new things. Feel free to invite me!
-* 🎯 My dream is to work at [Ankama](https://www.ankama.com/en/about)
-### Experience
-![Static Badge](https://img.shields.io/badge/Python-3-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=blue)
-![Static Badge](https://img.shields.io/badge/Visual_Basic-cyan?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)
+# \ (●'◡'●) /
+Soy estudiante de Ingeniería de Software en la [Pontificia Universidad Católica de Chile](https://www.uc.cl/). 🎯Mi objetivo principal en este momento es avanzar y terminar mis estudios📚 , sin embargo, siempre estoy dispuesto a participar en proyectos y aprender nuevos entornos de trabajo y de desarrollo👨🏻‍💻. 
+
+Me gusta el desarrollo de software y de videojuegos, de pequeño soñaba con desarrollar mi propio sistema operativo, lo que me impulso desde temprana edad a acercarme al mundo de la tecnología con lenguages como Visual Basic ó C++. Gracias a la universidad he trabajado con una amplia gama de herramientas en ciencia de datos, análisis numérico, implementación y creación de software, etc. También tengo afinidad por las matemáticas, y he creado publicaciones en el área como [Wolfram Community](https://community.wolfram.com/groups/-/m/t/2569841).
+
+Tengo experiencia relacionada al análisis de datos con librerías como [Scikit Learn](https://scikit-learn.org/stable/index.html), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), y el desarrollo de herramientas computacionales principalmente en [PyQt](https://www.qt.io/qt-for-python) framework para interfaces de usuario.
+
+## Lenguajes
+![Static Badge](https://img.shields.io/badge/Python%203-326A99?style=for-the-badge&logo=python&logoColor=FCE36C)
 ![Static Badge](https://img.shields.io/badge/Wolfram_Language-red?style=for-the-badge&logo=wolfram&logoColor=white)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=darkblue)
-![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![C language](https://img.shields.io/badge/language-blue?style=for-the-badge&logo=c&logoColor=white&labelColor=darkblue)
+![Static Badge](https://img.shields.io/badge/Visual_Basic-cyan?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)
+
 ### Fun facts
-* 💬 I create youtube videos of games and livestream my programming sessions (not all of them)
-* ⚡ I completed the quest for [Dolmanax <img align=down width=22 heigth=22 src='https://static.ankama.com/dofus/www/game/items/200/23018.png'>](https://www.dofuspourlesnoobs.com/calendrier-de-lalmanax.html)
-### NOT fun facts
+* ⚒️ Algún día trabajaré en [Ankama](https://www.ankama.com/en)
+* 💬 A veces creo contenido relacionado a videojuegos en un canal para hobbie
+* ⚡ Como prueba de perserverancia y disciplina: terminé la misión para [Dolmanax](https://www.dofuspourlesnoobs.com/calendrier-de-lalmanax.html)
+### other facts
 * 💡 I prefer light mode.
