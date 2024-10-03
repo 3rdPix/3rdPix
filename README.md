@@ -20,7 +20,6 @@ I have experience related to data analysis with libraries such as [Scikit Learn]
 
 ### Fun facts
 * ⚒️ I want to work at [Ankama](https://www.ankama.com/en)
-* 💬 I have two dogs, one named Perry, and the other Heinz Doofenshmirtz
-* ⚡ As proof perseverance, I completed the quest for [Dolmanax](https://www.dofuspourlesnoobs.com/calendrier-de-lalmanax.html)
+* ⚡ As proof of perseverance, I completed the quest for [Dolmanax](https://www.dofuspourlesnoobs.com/calendrier-de-lalmanax.html)
 ### other facts
 * 💡 I prefer light mode
