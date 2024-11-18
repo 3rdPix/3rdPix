@@ -1,5 +1,5 @@
 # ||ヽ(*￣▽￣*)ノミ|Ю
-I am a software engineering student at the [Pontifical Catholic University of Chile](https://www.uc.cl/en). 🎯 My main goal at the moment is to progress and complete my studies📚, however, I am always willing to participate in projects and learn new work and development environments👨🏻‍💻.
+I am a software engineering student at the [Pontificate Catholic University of Chile](https://www.uc.cl/en). 🎯 My main goal at the moment is to progress and complete my studies📚, however, I am always willing to participate in projects and learn new work and development environments👨🏻‍💻.
 
 <br>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=3rdPix&theme=algolia&no-bg=true&column=3&margin-w=10&rank=SSS,SS,S,AAA,AA,A"></div>
