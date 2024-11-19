@@ -3,7 +3,7 @@ I am a software engineering student at the [Pontifical Catholic University of Ch
 
 <br>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=3rdPix&show_icons=true&theme=transparent&rank_icon=github&hide=stars"></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=3rdPix&show_icons=true&theme=transparent&rank_icon=github&hide=stars&include_all_commits=true"></div>
 <br>
 
 <div align="center">
