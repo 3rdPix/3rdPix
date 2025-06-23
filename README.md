@@ -10,17 +10,8 @@ Since early age I dreamed about creating my own operating system which drove me 
 </div>
 <br>
 
-Thanks to university, I have worked with a wide range of tools in data science, numerical analysis, software implementation and creation, etc. Specifaclly I have worked with embedded programming through FPGA boards, visual applications in the QtFramework through its Python release, website deployments and database management using RubyOnRails, among other minor projects.
+Thanks to university, I have worked with a wide range of tools in data science, numerical analysis, software implementation and creation, etc. Specifically I have worked with embedded programming through FPGA boards, visual applications in the QtFramework through its Python release, website deployments and database management using RubyOnRails, among other minor projects.
 
-<div align="center">
-<img src="https://img.shields.io/badge/Python%203-FCE36C?style=for-the-badge&logo=python&logoColor=326A99">
-<img src="https://img.shields.io/badge/Framework-brightgreen?style=for-the-badge&logo=qt&logoSize=auto&labelColor=blue">
-<img src="https://img.shields.io/badge/language-blue?style=for-the-badge&logo=c&logoColor=white&labelColor=darkblue">
-<img src="https://img.shields.io/badge/RISC--V-%232d3574?style=for-the-badge&logo=RISC-V&logoColor=%23f4b521">
-<img src="https://img.shields.io/badge/Wolfram-FE0000?style=for-the-badge&logo=wolfram&logoColor=white">
-<img src="https://img.shields.io/badge/ruby_on_rails-red?style=for-the-badge&logo=ruby%20on%20rails&logoSize=auto">
-</div>
-<br>
 <div align="center">
 <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white&logoSize=auto">
 <img src="https://img.shields.io/badge/Neovim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white&logoSize=auto">
