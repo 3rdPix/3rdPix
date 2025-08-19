@@ -15,8 +15,9 @@ Thanks to university, I have worked with a wide range of tools in data science, 
 <div align="center">
 <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white&logoSize=auto">
 <img src="https://img.shields.io/badge/Neovim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white&logoSize=auto">
+<img src="https://img.shields.io/badge/NixOS-%234dbbd6?style=for-the-badge&logo=NixOS">
 <img src="https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=debian">
-<img src="https://img.shields.io/badge/Bash-brightgreen?style=for-the-badge&logo=GNU%20Bash&logoColor=%234EAA25&labelColor=black">
+<img src="https://img.shields.io/badge/Bash-%2300a600?style=for-the-badge&logo=GNU%20Bash&logoColor=%2300a600&labelColor=black">
 </div>
 <br>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=3rdPix&theme=algolia&no-bg=true&column=3&margin-w=10&rank=SSS,SS,S,AAA,AA,A"></div>
