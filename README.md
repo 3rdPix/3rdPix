@@ -1,10 +1,9 @@
 # ||ヽ(*￣▽￣*)ノミ|Ю
-I am a software engineering student at the [Pontifical Catholic University of Chile](https://www.uc.cl/en). 🎯 My main goal at the moment is to advance and complete my studies.
+I am a software engineering student at [Pontificia Universidad Católica de Chile](https://www.uc.cl/en). 🎯 My main goal at the moment is to advance and complete my studies.
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=3rdPix&theme=algolia&no-bg=true&column=3&margin-w=10&rank=SSS,SS,S,AAA,AA,A"></div>
 Thanks to university, I have worked with a wide range of tools in data science, numerical analysis, software implementation and creation, etc. Specifically I have worked with embedded programming through FPGA boards, visual applications in the QtFramework through its Python release, website deployments and database management using RubyOnRails, among other minor projects.
 
-You can talk to me about any of the following:
+These are a bunch of things I'm interested in, in no particular order, just to fill my profile with colours:
 <br>
 <div align="center">
 <img src="https://img.shields.io/badge/NixOS-%234dbbd6?style=for-the-badge&logo=NixOS">
@@ -23,13 +22,6 @@ You can talk to me about any of the following:
   
 </div>
 
-
-
-<br>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3rdPix&theme=transparent&rank_icon=github&include_all_commits=true&layout=compact">
-</div>
-<br>
 
 
 ## Fun facts
